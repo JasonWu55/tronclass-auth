@@ -1,0 +1,21 @@
+{
+  "extraPaths": [
+    "/usr/local/lib/python3.13/dist-packages",
+    "/usr/lib/python3/dist-packages"
+  ],
+  "venvPath": ".",
+  "venv": ".venv",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": false,
+  "reportUnknownVariableType": false,
+  "reportUnknownMemberType": false,
+  "reportUnknownArgumentType": false,
+  "reportUnknownParameterType": false,
+  "reportUnknownLambdaType": false,
+  "reportUnknownReturnType": false,
+  "reportExplicitAny": false,
+  "reportAny": false,
+  "reportCallInDefaultInitializer": false,
+  "reportUntypedBaseClass": false,
+  "reportUnannotatedClassAttribute": false
+}
